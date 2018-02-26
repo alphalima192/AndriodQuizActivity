@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndriodQuizActivity.iml" filepath="$PROJECT_DIR$/AndriodQuizActivity.iml" />
       <module fileurl="file://E:\ITP 220\FirstAndriod\QuizActivity-master\QuizActivity.iml" filepath="E:\ITP 220\FirstAndriod\QuizActivity-master\QuizActivity.iml" />
-      <module fileurl="file://$PROJECT_DIR$/QuizActivity-master.iml" filepath="$PROJECT_DIR$/QuizActivity-master.iml" />
+      <module fileurl="file://C:\Android\AndroidStudioProjects\AndriodQuizActivity\QuizActivity-master.iml" filepath="C:\Android\AndroidStudioProjects\AndriodQuizActivity\QuizActivity-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Android\AndroidStudioProjects\AndriodQuizActivity\app\app.iml" filepath="C:\Android\AndroidStudioProjects\AndriodQuizActivity\app\app.iml" />
     </modules>
   </component>
 </project>
